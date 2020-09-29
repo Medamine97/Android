@@ -22,3 +22,4 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
